@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Lupova19\StaticElements\Geometry\bin\Debug\Geometry.exe.config
+C:\Users\Admin\Desktop\Lupova19\StaticElements\Geometry\bin\Debug\Geometry.exe
+C:\Users\Admin\Desktop\Lupova19\StaticElements\Geometry\bin\Debug\Geometry.pdb
+C:\Users\Admin\Desktop\Lupova19\StaticElements\Geometry\obj\Debug\Geometry.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Lupova19\StaticElements\Geometry\obj\Debug\Geometry.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Lupova19\StaticElements\Geometry\obj\Debug\Geometry.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lupova19\StaticElements\Geometry\obj\Debug\Geometry.exe
+C:\Users\Admin\Desktop\Lupova19\StaticElements\Geometry\obj\Debug\Geometry.pdb

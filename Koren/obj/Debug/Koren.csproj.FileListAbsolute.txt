@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Lupova19\StaticElements\Koren\bin\Debug\Koren.exe.config
+C:\Users\Admin\Desktop\Lupova19\StaticElements\Koren\bin\Debug\Koren.exe
+C:\Users\Admin\Desktop\Lupova19\StaticElements\Koren\bin\Debug\Koren.pdb
+C:\Users\Admin\Desktop\Lupova19\StaticElements\Koren\obj\Debug\Koren.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Lupova19\StaticElements\Koren\obj\Debug\Koren.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Lupova19\StaticElements\Koren\obj\Debug\Koren.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lupova19\StaticElements\Koren\obj\Debug\Koren.exe
+C:\Users\Admin\Desktop\Lupova19\StaticElements\Koren\obj\Debug\Koren.pdb

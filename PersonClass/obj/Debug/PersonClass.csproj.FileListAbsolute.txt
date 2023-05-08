@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Lupova19\StaticElements\PersonClass\bin\Debug\PersonClass.exe.config
+C:\Users\Admin\Desktop\Lupova19\StaticElements\PersonClass\bin\Debug\PersonClass.exe
+C:\Users\Admin\Desktop\Lupova19\StaticElements\PersonClass\bin\Debug\PersonClass.pdb
+C:\Users\Admin\Desktop\Lupova19\StaticElements\PersonClass\obj\Debug\PersonClass.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Lupova19\StaticElements\PersonClass\obj\Debug\PersonClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Lupova19\StaticElements\PersonClass\obj\Debug\PersonClass.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lupova19\StaticElements\PersonClass\obj\Debug\PersonClass.exe
+C:\Users\Admin\Desktop\Lupova19\StaticElements\PersonClass\obj\Debug\PersonClass.pdb
