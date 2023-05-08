@@ -15,9 +15,9 @@ namespace Geometry
             double side  = double.Parse(Console.ReadLine());
             Console.Write("Въведи а: ");
             double a = double.Parse(Console.ReadLine());
-            Console.Write("Ваведи b: ");
+            Console.Write("Въведи b: ");
             double b = double.Parse(Console.ReadLine());
-            Console.Write("Ваведи r: ");
+            Console.Write("Въведи r: ");
             double r = double.Parse(Console.ReadLine());
 
             double squarePerimeter = Geometry.SquarePerimeter(side);
